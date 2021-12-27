@@ -6,3 +6,4 @@
 | 21/12/23 | 조이스틱 | No | 42860, https://programmers.co.kr/learn/courses/30/lessons/42860 |
 | 21/12/25 | 체육복 | Yes | 42862, https://programmers.co.kr/learn/courses/30/lessons/42862 |
 | 21/12/26 | 기능개발 | Yes | 42586, https://programmers.co.kr/learn/courses/30/lessons/42586 |
+| 21/12/27 | 완주하지 못한 선수 | Yes | 42576, https://programmers.co.kr/learn/courses/30/lessons/42576 |
