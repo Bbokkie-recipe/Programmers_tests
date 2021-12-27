@@ -142,7 +142,8 @@
   <ItemGroup>
     <ClCompile Include="GymClothes.cpp" />
     <ClCompile Include="joystick.cpp" />
-    <ClCompile Include="기능개발.cpp" />
+    <ClCompile Include="FunDevelop.cpp" />
+    <ClCompile Include="완주하지못한선수.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
