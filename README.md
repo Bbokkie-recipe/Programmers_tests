@@ -7,3 +7,4 @@
 | 21/12/25 | 체육복 | Yes | 42862, https://programmers.co.kr/learn/courses/30/lessons/42862 |
 | 21/12/26 | 기능개발 | Yes | 42586, https://programmers.co.kr/learn/courses/30/lessons/42586 |
 | 21/12/27 | 완주하지 못한 선수 | Yes | 42576, https://programmers.co.kr/learn/courses/30/lessons/42576 |
+| 21/12/28 | 전화번호목록 | Yes | 42577, https://programmers.co.kr/learn/courses/30/lessons/42577 |
