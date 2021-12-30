@@ -9,3 +9,4 @@
 | 4| 21/12/27 | 완주하지 못한 선수 | Yes | 42576, https://programmers.co.kr/learn/courses/30/lessons/42576 |
 | 5 | 21/12/28 | 전화번호목록 | Yes | 42577, https://programmers.co.kr/learn/courses/30/lessons/42577 |
 | 6 | 21/12/29 | 모의고사 | Yes | 42840, https://programmers.co.kr/learn/courses/30/lessons/42840 |
+| 7 | 21/12/30 | 카펫 | Yes | 42842, https://programmers.co.kr/learn/courses/30/lessons/42842 |
