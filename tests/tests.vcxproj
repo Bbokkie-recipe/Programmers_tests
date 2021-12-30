@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Carpet.cpp" />
     <ClCompile Include="GymClothes.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="FunDevelop.cpp" />
