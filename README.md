@@ -10,3 +10,4 @@
 | 5 | 21/12/28 | 전화번호목록 | Yes | 42577, https://programmers.co.kr/learn/courses/30/lessons/42577 |
 | 6 | 21/12/29 | 모의고사 | Yes | 42840, https://programmers.co.kr/learn/courses/30/lessons/42840 |
 | 7 | 21/12/30 | 카펫 | Yes | 42842, https://programmers.co.kr/learn/courses/30/lessons/42842 |
+| 8 | 21/12/31 | K번째수 | Yes | 42748, https://programmers.co.kr/learn/courses/30/lessons/42748 |
