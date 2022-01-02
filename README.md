@@ -12,3 +12,4 @@
 | 7 | 21/12/30 | 카펫 | Yes | 42842, https://programmers.co.kr/learn/courses/30/lessons/42842 |
 | 8 | 21/12/31 | K번째수 | Yes | 42748, https://programmers.co.kr/learn/courses/30/lessons/42748 |
 | 9 | 22/01/01 | 숫자 문자열과 영단어 | Yes | 81301, https://programmers.co.kr/learn/courses/30/lessons/81301 |
+| 10 | 22/01/01 | 타겟넘버 | Yes | 43165, https://programmers.co.kr/learn/courses/30/lessons/43165 |
