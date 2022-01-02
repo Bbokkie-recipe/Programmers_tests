@@ -146,6 +146,7 @@
     <ClCompile Include="FunDevelop.cpp" />
     <ClCompile Include="K번째수.cpp" />
     <ClCompile Include="TargetNumber.cpp" />
+    <ClCompile Include="로또의최저순위와최고순위.cpp" />
     <ClCompile Include="모의고사.cpp" />
     <ClCompile Include="숫자문자열과영단어.cpp" />
     <ClCompile Include="완주하지못한선수.cpp" />
