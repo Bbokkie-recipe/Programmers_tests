@@ -14,3 +14,5 @@
 | 9 | 22/01/01 | 숫자 문자열과 영단어 | Yes | 81301, https://programmers.co.kr/learn/courses/30/lessons/81301 |
 | 10 | 22/01/01 | 타겟넘버 | Yes | 43165, https://programmers.co.kr/learn/courses/30/lessons/43165 |
 | 11 | 22/01/02 | 로또의 최저 순위와 최고 순위 | Yes | 77484, https://programmers.co.kr/learn/courses/30/lessons/77484 |
+| 12 | 22/01/03 | 로또의 최저 순위와 최고 순위 | Yes | 12922, https://programmers.co.kr/learn/courses/30/lessons/12922 |
+
