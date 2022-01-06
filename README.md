@@ -16,3 +16,4 @@
 | 11 | 22/01/02 | 로또의 최저 순위와 최고 순위 | Yes | 77484, https://programmers.co.kr/learn/courses/30/lessons/77484 |
 | 12 | 22/01/03 | 수박수박수박수박수박수? | Yes | 12922, https://programmers.co.kr/learn/courses/30/lessons/12922 |
 | 13 | 22/01/04 | 신규아이디 추천 | Yes | 72410, https://programmers.co.kr/learn/courses/30/lessons/72410 |
+| 14 | 22/01/05 | 위장 | Yes | 42578, https://programmers.co.kr/learn/courses/30/lessons/42578 |
