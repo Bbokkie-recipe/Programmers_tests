@@ -145,6 +145,7 @@
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="FunDevelop.cpp" />
     <ClCompile Include="K번째수.cpp" />
+    <ClCompile Include="printer.cpp" />
     <ClCompile Include="TargetNumber.cpp" />
     <ClCompile Include="로또의최저순위와최고순위.cpp" />
     <ClCompile Include="모의고사.cpp" />
