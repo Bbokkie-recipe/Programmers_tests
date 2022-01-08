@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="Carpet.cpp" />
     <ClCompile Include="GymClothes.cpp" />
+    <ClCompile Include="H-Index.cpp" />
     <ClCompile Include="joystick.cpp" />
     <ClCompile Include="FunDevelop.cpp" />
     <ClCompile Include="K번째수.cpp" />
