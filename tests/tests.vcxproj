@@ -152,6 +152,7 @@
     <ClCompile Include="내적.cpp" />
     <ClCompile Include="로또의최저순위와최고순위.cpp" />
     <ClCompile Include="모의고사.cpp" />
+    <ClCompile Include="소수만들기.cpp" />
     <ClCompile Include="순회.cpp" />
     <ClCompile Include="숫자문자열과영단어.cpp" />
     <ClCompile Include="신규아이디추천.cpp" />
