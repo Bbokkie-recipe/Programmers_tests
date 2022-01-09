@@ -19,3 +19,5 @@
 | 14 | 22/01/05 | 위장 | Yes | 42578, https://programmers.co.kr/learn/courses/30/lessons/42578 |
 | 15 | 22/01/06 | 프린터 | Yes | 42587, https://programmers.co.kr/learn/courses/30/lessons/42587 |
 | 16 | 22/01/07 | 가장 큰 수 | Yes | 42746, https://programmers.co.kr/learn/courses/30/lessons/42746 |
+| 17 | 22/01/08 | H-Index | Yes | 42747, https://programmers.co.kr/learn/courses/30/lessons/42747 |
+| 18 | 22/01/09 | 내적 | Yes | 70128, https://programmers.co.kr/learn/courses/30/lessons/70128 |
