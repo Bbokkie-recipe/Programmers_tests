@@ -21,3 +21,4 @@
 | 16 | 22/01/07 | 가장 큰 수 | Yes | 42746, https://programmers.co.kr/learn/courses/30/lessons/42746 |
 | 17 | 22/01/08 | H-Index | Yes | 42747, https://programmers.co.kr/learn/courses/30/lessons/42747 |
 | 18 | 22/01/09 | 내적 | Yes | 70128, https://programmers.co.kr/learn/courses/30/lessons/70128 |
+| 19 | 22/01/09 | 없는 숫자 더하기 | Yes | 86051, https://programmers.co.kr/learn/courses/30/lessons/86051 |
