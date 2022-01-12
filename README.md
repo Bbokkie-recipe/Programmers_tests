@@ -24,3 +24,4 @@
 | 19 | 22/01/09 | 없는 숫자 더하기 | Yes | 86051, https://programmers.co.kr/learn/courses/30/lessons/86051 |
 | 20 | 22/01/09 | 소수만들기 | Yes | 12977, https://programmers.co.kr/learn/courses/30/lessons/12977 |
 | 21 | 22/01/10 | 음양더하기 | Yes | 76501, https://programmers.co.kr/learn/courses/30/lessons/76501 |
+| 22 | 22/01/11 | 주식가격 | Yes | 42584, https://programmers.co.kr/learn/courses/30/lessons/42584 |
