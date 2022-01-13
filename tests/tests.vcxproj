@@ -164,6 +164,7 @@
     <ClCompile Include="위장.cpp" />
     <ClCompile Include="음양더하기.cpp" />
     <ClCompile Include="주식가격.cpp" />
+    <ClCompile Include="폰켓몬.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

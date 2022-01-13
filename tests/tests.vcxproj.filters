@@ -87,5 +87,8 @@
     <ClCompile Include="나누어 떨어지는 숫자 배열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="폰켓몬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
