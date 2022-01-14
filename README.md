@@ -27,3 +27,4 @@
 | 22 | 22/01/11 | 주식가격 | Yes | 42584, https://programmers.co.kr/learn/courses/30/lessons/42584 |
 | 23 | 22/01/12 | 나누어 떨어지는 숫자 배열 | Yes | 12910, https://programmers.co.kr/learn/courses/30/lessons/12910 |
 | 24 | 22/01/13 | 폰켓몬 | Yes | 1845, https://programmers.co.kr/learn/courses/30/lessons/1845 |
+| 25 | 22/01/15 | 약수의 개수와 덧셈 | Yes | 77884, https://programmers.co.kr/learn/courses/30/lessons/77884 |
