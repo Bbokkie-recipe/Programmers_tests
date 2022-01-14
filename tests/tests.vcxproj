@@ -157,6 +157,7 @@
     <ClCompile Include="순회.cpp" />
     <ClCompile Include="숫자문자열과영단어.cpp" />
     <ClCompile Include="신규아이디추천.cpp" />
+    <ClCompile Include="약수의 개수와 덧셈.cpp" />
     <ClCompile Include="없는숫자더하기.cpp" />
     <ClCompile Include="완주하지못한선수.cpp" />
     <ClCompile Include="phonenumberlist.cpp" />
