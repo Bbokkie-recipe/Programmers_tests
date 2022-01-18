@@ -29,3 +29,5 @@
 | 24 | 22/01/13 | 폰켓몬 | Yes | 1845, https://programmers.co.kr/learn/courses/30/lessons/1845 |
 | 25 | 22/01/15 | 약수의 개수와 덧셈 | Yes | 77884, https://programmers.co.kr/learn/courses/30/lessons/77884 |
 | 26 | 22/01/16 | 실패율 | Yes | 42889, https://programmers.co.kr/learn/courses/30/lessons/42889 |
+| 27 | 22/01/17 | 두 개 뽑아서 더하기 | Yes | 68644, https://programmers.co.kr/learn/courses/30/lessons/68644 |
+| 27 | 22/01/18 | 콜라츠 추측 | Yes | 12943, https://programmers.co.kr/learn/courses/30/lessons/12943 |
