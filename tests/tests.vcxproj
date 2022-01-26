@@ -151,6 +151,7 @@
     <ClCompile Include="가장큰수.cpp" />
     <ClCompile Include="나누어 떨어지는 숫자 배열.cpp" />
     <ClCompile Include="내적.cpp" />
+    <ClCompile Include="다리를지나는트럭.cpp" />
     <ClCompile Include="두 개 뽑아서 더하기.cpp" />
     <ClCompile Include="로또의최저순위와최고순위.cpp" />
     <ClCompile Include="모의고사.cpp" />
