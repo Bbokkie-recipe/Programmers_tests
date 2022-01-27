@@ -31,3 +31,4 @@
 | 26 | 22/01/16 | 실패율 | Yes | 42889, https://programmers.co.kr/learn/courses/30/lessons/42889 |
 | 27 | 22/01/17 | 두 개 뽑아서 더하기 | Yes | 68644, https://programmers.co.kr/learn/courses/30/lessons/68644 |
 | 27 | 22/01/18 | 콜라츠 추측 | Yes | 12943, https://programmers.co.kr/learn/courses/30/lessons/12943 |
+| 28 | 22/01/26 | 다리를 지나는 트럭 | Yes | 42583, https://programmers.co.kr/learn/courses/30/lessons/42583 |
