@@ -32,3 +32,4 @@
 | 27 | 22/01/17 | 두 개 뽑아서 더하기 | Yes | 68644, https://programmers.co.kr/learn/courses/30/lessons/68644 |
 | 27 | 22/01/18 | 콜라츠 추측 | Yes | 12943, https://programmers.co.kr/learn/courses/30/lessons/12943 |
 | 28 | 22/01/26 | 다리를 지나는 트럭 | Yes | 42583, https://programmers.co.kr/learn/courses/30/lessons/42583 |
+| 29 | 22/01/27 | 평균 구하기 | Yes | 12944, https://programmers.co.kr/learn/courses/30/lessons/12944 |
