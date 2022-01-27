@@ -153,6 +153,7 @@
     <ClCompile Include="내적.cpp" />
     <ClCompile Include="다리를지나는트럭.cpp" />
     <ClCompile Include="두 개 뽑아서 더하기.cpp" />
+    <ClCompile Include="두정수사이의합.cpp" />
     <ClCompile Include="로또의최저순위와최고순위.cpp" />
     <ClCompile Include="모의고사.cpp" />
     <ClCompile Include="소수만들기.cpp" />
