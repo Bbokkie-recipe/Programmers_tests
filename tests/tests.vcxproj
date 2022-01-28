@@ -148,6 +148,7 @@
     <ClCompile Include="K번째수.cpp" />
     <ClCompile Include="printer.cpp" />
     <ClCompile Include="TargetNumber.cpp" />
+    <ClCompile Include="x만큼 간격이 있는 n개의 숫자.cpp" />
     <ClCompile Include="가장큰수.cpp" />
     <ClCompile Include="같은숫자는싫어.cpp" />
     <ClCompile Include="나누어 떨어지는 숫자 배열.cpp" />
