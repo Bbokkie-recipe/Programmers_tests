@@ -34,4 +34,6 @@
 | 28 | 22/01/26 | 다리를 지나는 트럭 | Yes | 42583, https://programmers.co.kr/learn/courses/30/lessons/42583 |
 | 29 | 22/01/27 | 평균 구하기 | Yes | 12944, https://programmers.co.kr/learn/courses/30/lessons/12944 |
 | 30 | 22/01/27 | 두 정수 사이의 합 | Yes | 12912, https://programmers.co.kr/learn/courses/30/lessons/12912 |
+| 3q | 22/01/27 | 같은 숫자는 싫어 | Yes | 12906, https://programmers.co.kr/learn/courses/30/lessons/12906 |
+
 
