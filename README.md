@@ -36,4 +36,4 @@
 | 30 | 22/01/27 | 두 정수 사이의 합 | Yes | 12912, https://programmers.co.kr/learn/courses/30/lessons/12912 |
 | 31 | 22/01/27 | 같은 숫자는 싫어 | Yes | 12906, https://programmers.co.kr/learn/courses/30/lessons/12906 |
 | 32 | 22/01/28 | 핸드폰 번호 가리기 | Yes | 12948, https://programmers.co.kr/learn/courses/30/lessons/12948 |
-
+| 33 | 22/01/28 | x만큼 간격이 있는 n개의 숫자 | Yes | 12954, https://programmers.co.kr/learn/courses/30/lessons/12954 |
