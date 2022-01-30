@@ -39,3 +39,4 @@
 | 33 | 22/01/28 | x만큼 간격이 있는 n개의 숫자 | Yes | 12954, https://programmers.co.kr/learn/courses/30/lessons/12954 |
 | 34 | 22/01/28 | 하샤드 수 | Yes | 12947, https://programmers.co.kr/learn/courses/30/lessons/12947 |
 | 35 | 22/01/28 | 행렬의 덧셈 | Yes | 12950, https://programmers.co.kr/learn/courses/30/lessons/12950 |
+| 36 | 22/01/30 | 가운데 글자 가져오기 | Yes | 12903, https://programmers.co.kr/learn/courses/30/lessons/12903 |
