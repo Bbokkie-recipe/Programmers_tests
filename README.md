@@ -40,3 +40,4 @@
 | 34 | 22/01/28 | 하샤드 수 | Yes | 12947, https://programmers.co.kr/learn/courses/30/lessons/12947 |
 | 35 | 22/01/28 | 행렬의 덧셈 | Yes | 12950, https://programmers.co.kr/learn/courses/30/lessons/12950 |
 | 36 | 22/01/30 | 가운데 글자 가져오기 | Yes | 12903, https://programmers.co.kr/learn/courses/30/lessons/12903 |
+| 37 | 22/01/30 | 부족한 금액 계산하기 | Yes | 82612, https://programmers.co.kr/learn/courses/30/lessons/82612 |
