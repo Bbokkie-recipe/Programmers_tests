@@ -132,5 +132,8 @@
     <ClCompile Include="부족한 금액 계산하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="나머지가 1이 되는 수 찾기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
