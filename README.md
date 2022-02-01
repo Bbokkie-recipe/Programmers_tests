@@ -42,4 +42,5 @@
 | 36 | 22/01/30 | 가운데 글자 가져오기 | Yes | 12903, https://programmers.co.kr/learn/courses/30/lessons/12903 |
 | 37 | 22/01/30 | 부족한 금액 계산하기 | Yes | 82612, https://programmers.co.kr/learn/courses/30/lessons/82612 |
 | 38 | 22/01/31 | 나머지가 1이 되는 수 찾기 | Yes | 87389, https://programmers.co.kr/learn/courses/30/lessons/87389 |
-| 39 | 22/01/31 | 제일 작은 수 제거하기 | Yes | 12935, https://programmers.co.kr/learn/courses/30/lessons/12935 |
+| 39 | 22/02/01 | 제일 작은 수 제거하기 | Yes | 12935, https://programmers.co.kr/learn/courses/30/lessons/12935 |
+| 40 | 22/02/01 | 2016년 | Yes | 12901, https://programmers.co.kr/learn/courses/30/lessons/12901 |
