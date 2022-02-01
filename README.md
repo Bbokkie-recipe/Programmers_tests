@@ -44,3 +44,4 @@
 | 38 | 22/01/31 | 나머지가 1이 되는 수 찾기 | Yes | 87389, https://programmers.co.kr/learn/courses/30/lessons/87389 |
 | 39 | 22/02/01 | 제일 작은 수 제거하기 | Yes | 12935, https://programmers.co.kr/learn/courses/30/lessons/12935 |
 | 40 | 22/02/01 | 2016년 | Yes | 12901, https://programmers.co.kr/learn/courses/30/lessons/12901 |
+| 41 | 22/02/01 | 문자열 다루기 기본 | Yes | 12918, https://programmers.co.kr/learn/courses/30/lessons/12918 |
