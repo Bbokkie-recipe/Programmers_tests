@@ -172,6 +172,7 @@
     <ClCompile Include="phonenumberlist.cpp" />
     <ClCompile Include="수박수박수박수박수박수.cpp" />
     <ClCompile Include="위장.cpp" />
+    <ClCompile Include="윤년.cpp" />
     <ClCompile Include="음양더하기.cpp" />
     <ClCompile Include="제일 작은 수 제거하기.cpp" />
     <ClCompile Include="주식가격.cpp" />
