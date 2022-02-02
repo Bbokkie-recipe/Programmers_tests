@@ -45,3 +45,4 @@
 | 39 | 22/02/01 | 제일 작은 수 제거하기 | Yes | 12935, https://programmers.co.kr/learn/courses/30/lessons/12935 |
 | 40 | 22/02/01 | 2016년 | Yes | 12901, https://programmers.co.kr/learn/courses/30/lessons/12901 |
 | 41 | 22/02/01 | 문자열 다루기 기본 | Yes | 12918, https://programmers.co.kr/learn/courses/30/lessons/12918 |
+| 42 | 22/02/01 | 최소 직사각형 | Yes | 86491, https://programmers.co.kr/learn/courses/30/lessons/86491 |
