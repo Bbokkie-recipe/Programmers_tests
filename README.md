@@ -47,3 +47,4 @@
 | 41 | 22/02/01 | 문자열 다루기 기본 | Yes | 12918, https://programmers.co.kr/learn/courses/30/lessons/12918 |
 | 42 | 22/02/01 | 최소 직사각형 | Yes | 86491, https://programmers.co.kr/learn/courses/30/lessons/86491 |
 | 43 | 22/02/03 | 자연수 뒤집어 배열로 만들기 | Yes | 12932, https://programmers.co.kr/learn/courses/30/lessons/12932 |
+| 44 | 22/02/03 | 문자열 내 p와 y의 개수 | Yes | 12916#, https://programmers.co.kr/learn/courses/30/lessons/12916# |
