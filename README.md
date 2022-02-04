@@ -48,3 +48,5 @@
 | 42 | 22/02/01 | 최소 직사각형 | Yes | 86491, https://programmers.co.kr/learn/courses/30/lessons/86491 |
 | 43 | 22/02/03 | 자연수 뒤집어 배열로 만들기 | Yes | 12932, https://programmers.co.kr/learn/courses/30/lessons/12932 |
 | 44 | 22/02/03 | 문자열 내 p와 y의 개수 | Yes | 12916#, https://programmers.co.kr/learn/courses/30/lessons/12916# |
+| 45 | 22/02/04 | 서울에서 김서방 찾기 | Yes | 12919, https://programmers.co.kr/learn/courses/30/lessons/12919 |
+
