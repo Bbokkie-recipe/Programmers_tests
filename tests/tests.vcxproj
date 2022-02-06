@@ -167,6 +167,7 @@
     <ClCompile Include="소수만들기.cpp" />
     <ClCompile Include="순회.cpp" />
     <ClCompile Include="숫자문자열과영단어.cpp" />
+    <ClCompile Include="시저 암호.cpp" />
     <ClCompile Include="신규아이디추천.cpp" />
     <ClCompile Include="실패율.cpp" />
     <ClCompile Include="약수의 개수와 덧셈.cpp" />
