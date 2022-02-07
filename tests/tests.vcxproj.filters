@@ -165,5 +165,8 @@
     <ClCompile Include="3진법 뒤집기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이상한문자만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
