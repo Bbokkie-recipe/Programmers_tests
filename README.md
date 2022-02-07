@@ -52,4 +52,5 @@
 | 46 | 22/02/05 | 정수 제곱근 판별 | Yes | 12934, https://programmers.co.kr/learn/courses/30/lessons/12934 |
 | 47 | 22/02/06 | 시저 암호 | Yes | 12926#, https://programmers.co.kr/learn/courses/30/lessons/12926# |
 | 48 | 22/02/06 | 3진법 뒤집기 | Yes | 68935, https://programmers.co.kr/learn/courses/30/lessons/68935 |
+| 49 | 22/02/07 | 이상한 문자 만들기 | Yes | 12930?, https://programmers.co.kr/learn/courses/30/lessons/12930?language=cpp |
 
