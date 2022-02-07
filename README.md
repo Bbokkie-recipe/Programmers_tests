@@ -49,4 +49,7 @@
 | 43 | 22/02/03 | 자연수 뒤집어 배열로 만들기 | Yes | 12932, https://programmers.co.kr/learn/courses/30/lessons/12932 |
 | 44 | 22/02/03 | 문자열 내 p와 y의 개수 | Yes | 12916#, https://programmers.co.kr/learn/courses/30/lessons/12916# |
 | 45 | 22/02/04 | 서울에서 김서방 찾기 | Yes | 12919, https://programmers.co.kr/learn/courses/30/lessons/12919 |
-| 46 | 22/02/04 | 정수 제곱근 판별 | Yes | 12934, https://programmers.co.kr/learn/courses/30/lessons/12934 |
+| 46 | 22/02/05 | 정수 제곱근 판별 | Yes | 12934, https://programmers.co.kr/learn/courses/30/lessons/12934 |
+| 47 | 22/02/06 | 시저 암호 | Yes | 12926#, https://programmers.co.kr/learn/courses/30/lessons/12926# |
+| 48 | 22/02/06 | 3진법 뒤집기 | Yes | 68935, https://programmers.co.kr/learn/courses/30/lessons/68935 |
+
